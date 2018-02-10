@@ -1,0 +1,5 @@
+input("enter your name")
+input("enter yor registration ")
+input("enter your age")
+input("enter your qualification")
+input("enter yor home address")
